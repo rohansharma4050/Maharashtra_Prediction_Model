@@ -2,7 +2,7 @@
 
 
 ### Background
-Predictive analytics tools are powered by several different models and algorithms that can be applied to wide range of use cases. Determining what predictive modeling techniques are best for your company is key to getting the most out of a predictive analytics solution and leveraging data to make insightful decisions
+Predictive analytics tools are powered by several different models and algorithms that can be applied to wide range of use cases. Determining what predictive modeling techniques are best for your project is key to getting the most out of a predictive analytics solution and leveraging data to make insightful decisions
 
 
 ### Methodology

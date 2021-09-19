@@ -1,4 +1,4 @@
-# Coid-19 Prediction Model for Maharashtra
+# Covid-19 Prediction Model for Maharashtra
 
 
 ### Background
